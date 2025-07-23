@@ -1,0 +1,4 @@
+I used the next typescript features while working on this SBA: type annotations for variables and function parameters, class property types, return types like Promise<Product[]>, the unknown type in error handling, and typed object structures in constructors.
+Everything was divided into objects like classes and functions, as needed in object-oriented programming. The challenge was to think about the whole logic of the program and then to implement it. I overcame it by additional reading and googling to understand new concepts more.
+That took some time so another challenge was to make everything as fast as possible (still took too much time).
+Asynchronous operations are handled with Promises and key words async/await. Errors are handled with try/catch blocks.
